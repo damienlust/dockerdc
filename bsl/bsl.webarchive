@@ -1,0 +1,448 @@
+bplist00Ò_WebMainResource_WebSubresourcesÕ	
+_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName^WebResourceURL_WebResourceDataYtext/htmlUutf-8P_file:///index.htmlO²Ú<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1404.47">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 22.0px; font: 14.0px Arial; color: #7a6e67; -webkit-text-stroke: #7a6e67}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 17.0px; font: 14.0px Arial; color: #7a6e67; -webkit-text-stroke: #7a6e67}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 22.0px; font: 16.0px Arial; color: #000000; -webkit-text-stroke: #000000; background-color: #edeceb}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 14.0px Arial; color: #786e6c; -webkit-text-stroke: #786e6c}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 44.0px; font: 44.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 16.0px Arial; color: #000000; -webkit-text-stroke: #000000; min-height: 18.0px}
+    p.p10 {margin: 0.0px 0.0px 15.0px 0.0px; line-height: 20.0px; font: 16.0px Arial; color: #7a6e67; -webkit-text-stroke: #7a6e67}
+    p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 24.0px; font: 16.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff; background-color: #7a6e67}
+    p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 16.0px Arial; color: #7a6e67; -webkit-text-stroke: #7a6e67}
+    p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 16.0px Arial; color: #000000; -webkit-text-stroke: #000000}
+    p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 21.0px; font: 16.0px Arial; color: #000000; -webkit-text-stroke: #000000; background-color: #ffffff; min-height: 18.0px}
+    p.p15 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 16.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff; background-color: #e24912; min-height: 18.0px}
+    p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 17.0px; font: 14.0px Times; color: #000000; -webkit-text-stroke: #000000; background-color: #ffffff}
+    p.p17 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 16.0px Arial; color: #ff0000; -webkit-text-stroke: #ff0000}
+    p.p18 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; line-height: 18.0px; font: 16.0px Arial; color: #000000; -webkit-text-stroke: #000000}
+    p.p19 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 16.0px Arial; color: #000000; -webkit-text-stroke: #000000; min-height: 18.0px}
+    p.p20 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 16.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff}
+    p.p21 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 40.0px; font: 16.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff}
+    p.p24 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 60.0px; font: 13.0px Arial; color: #e5e2e1; -webkit-text-stroke: #e5e2e1}
+    p.p25 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 60.0px; font: 16.0px Arial; color: #786e6c; -webkit-text-stroke: #786e6c; min-height: 18.0px}
+    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 14.0px Arial; color: #7a6e67; -webkit-text-stroke: #7a6e67}
+    li.li6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 22.0px; font: 16.0px Arial; color: #7a6e67; -webkit-text-stroke: #7a6e67}
+    li.li22 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 22.0px; font: 18.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff}
+    li.li23 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 20.0px; font: 16.0px Arial; color: #b6b2b1; -webkit-text-stroke: #b6b2b1}
+    li.li24 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 60.0px; font: 13.0px Arial; color: #e5e2e1; -webkit-text-stroke: #e5e2e1}
+    span.s1 {font: 16.0px Arial; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+    span.s2 {font-kerning: none; background-color: #ffffff}
+    span.s3 {font: 16.0px Arial; font-kerning: none; color: #786e6c; background-color: #ffffff; -webkit-text-stroke: 0px #786e6c}
+    span.s4 {font-kerning: none}
+    span.s5 {background-color: #ffffff; -webkit-text-stroke: 0px #000000}
+    span.s6 {font: 12.0px Arial; font-kerning: none; color: #786e6c; background-color: #ffffff; -webkit-text-stroke: 0px #786e6c}
+    span.s7 {font: 14.0px Arial; font-kerning: none; color: #7a6e67; -webkit-text-stroke: 0px #7a6e67}
+    span.s8 {font: 14.0px 'PingFang SC'; font-kerning: none; background-color: #ffffff}
+    span.s9 {font: 16.0px Arial; font-kerning: none}
+    span.s10 {font: 16.0px Arial; font-kerning: none; color: #7a6e67; -webkit-text-stroke: 0px #7a6e67}
+    span.s11 {font-kerning: none; color: #ff6633; background-color: transparent; -webkit-text-stroke: 0px #ff6633}
+    span.s12 {font: 14.0px '.AppleSystemUIFont'; font-kerning: none}
+    span.s13 {font-kerning: none; color: #0099cc; -webkit-text-stroke: 0px #0099cc}
+    span.s14 {font-kerning: none; background-color: #f29400}
+    span.s15 {font-kerning: none; background-color: #7a6e67}
+    span.s16 {font-kerning: none; background-color: #ff6633}
+    span.s17 {background-color: #5a4e48; -webkit-text-stroke: 0px #000000}
+    span.s18 {font: 16.0px Arial; font-kerning: none; color: #b6b2b1}
+    span.s19 {background-color: #3d332e; -webkit-text-stroke: 0px #000000}
+    span.s20 {font: 12.0px Arial; font-kerning: none; background-color: #3d332e}
+    span.s21 {font: 13.0px Arial; font-kerning: none}
+    span.s22 {font-kerning: none; background-color: #3d332e}
+    span.Apple-tab-span {white-space:pre}
+    table.t1 {width: 992.0px}
+    table.t2 {width: 205.0px}
+    td.td1 {width: 982.0px; min-height: 1.0px; padding: 0.0px 5.0px 120.0px 5.0px}
+    td.td2 {width: 986.0px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+    td.td3 {width: 757.0px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+    td.td4 {width: 37.0px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td5 {width: 26.0px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td6 {width: 123.0px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td7 {width: 38.0px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td8 {width: 67.0px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td9 {width: 83.0px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td10 {width: 292.0px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td11 {width: 153.0px; padding: 10.0px 0.0px 10.0px 0.0px}
+    td.td12 {width: 225.0px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+    td.td13 {width: 205.0px}
+    td.td14 {width: 193.0px; margin: 0.5px 0.5px 0.5px 0.5px; padding: 1.0px 1.0px 1.0px 1.0px}
+    ul.ul1 {list-style-type: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"><a href="https://www.swift.com/"><img src="file:///logo.png" alt="logo.png"><span class="s2"> </span></a></span><span class="s2">The global provider<span class="Apple-converted-space">Â </span></span></p>
+<p class="p2"><span class="s2">of secure financial messaging services</span><span class="s3"><span class="Apple-converted-space">Â </span></span></p>
+<p class="p3"><span class="s4"><a href="https://www2.swift.com/sitesearch">Search</a></span></p>
+<ul class="ul1">
+  <li class="li4"><span class="s5"><a href="https://www.swift.com/ordering-support"><span class="s4">Ordering &amp; Support</span></a></span><span class="s6"> <a href="https://www2.swift.com/myswift/"><span class="s7">mySWIFT</span></a><span class="Apple-converted-space">Â </span></span></li>
+</ul>
+<p class="p5"><span class="s8">æ—¥æœ¬èª</span><span class="s2"> | Languages | </span><span class="s8">ä¸­æ–‡</span></p>
+<ul class="ul1">
+  <li class="li6"><span class="s5"><a href="https://www.swift.com/about-us"><span class="s9">About Us</span></a></span><span class="s6"> <a href="https://www.swift.com/your-needs"><span class="s10">Your Needs</span></a> <a href="https://www.swift.com/our-solutions"><span class="s10">Our Solutions</span></a> <a href="https://www.swift.com/standards"><span class="s10">Standards</span></a> <a href="https://www.swift.com/insights"><span class="s10">Insights</span></a> <a href="https://www.swift.com/join-swift"><span class="s10">Join SWIFT</span></a> <a href="https://www.swift.com/contact-us"><span class="s10">Contact us</span></a><span class="Apple-converted-space">Â </span></span></li>
+</ul>
+<h1 style="margin: 0.0px 0.0px 10.0px 0.0px; line-height: 44.0px; font: 44.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff; min-height: 50.0px"><span class="s4"><b></b></span><br></h1>
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="top" class="td1">
+        <p class="p8"><span class="s4"><b>Online BIC Search</b></span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td2">
+        <p class="p9"><span class="s4"></span><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td2">
+        <p class="p9"><span class="s4"></span><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td2">
+        <p class="p9"><span class="s4"></span><br></p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" class="td2">
+        <p class="p10"><span class="s4">The BIC Search provides access to the basic BIC Information. For professional purposes, <b>please subscribe to the new </b><a href="http://www.swift.com/swiftref"><span class="s11"><b>SWIFTRef Directories</b></span></a></span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table width="992.0" cellspacing="0" cellpadding="0" class="t1">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td3">
+        <p class="p11"><span class="s4"><b>Search criteria</b></span></p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td4">
+                <p class="p12"><span class="s2">BIC</span></p>
+              </td>
+              <td valign="middle" class="td5">
+                <p class="p13"><span class="s4"><img src="file:///app_btn_tooltip_field.gif" alt="app_btn_tooltip_field.gif"></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="p14"><span class="s4"></span><br></p>
+        <p class="p15"><span class="s4"></span><br></p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td6">
+                <p class="p12"><span class="s2">Institution name</span></p>
+              </td>
+              <td valign="middle" class="td5">
+                <p class="p13"><span class="s4"><img src="file:///app_btn_tooltip_field.gif" alt="app_btn_tooltip_field.gif"></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="p14"><span class="s4"></span><br></p>
+        <p class="p15"><span class="s4"></span><br></p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td7">
+                <p class="p12"><span class="s2">City</span></p>
+              </td>
+              <td valign="middle" class="td5">
+                <p class="p13"><span class="s4"><img src="file:///app_btn_tooltip_field.gif" alt="app_btn_tooltip_field.gif"></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="p14"><span class="s4"></span><br></p>
+        <p class="p15"><span class="s4"></span><br></p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td8">
+                <p class="p12"><span class="s2">Country</span></p>
+              </td>
+              <td valign="middle" class="td5">
+                <p class="p13"><span class="s4"><img src="file:///app_btn_tooltip_field.gif" alt="app_btn_tooltip_field.gif"></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="p16"><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">All countries</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">AFGHANISTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ALBANIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ALGERIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">AMERICAN SAMOA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ANDORRA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ANGOLA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ANGUILLA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ANTIGUA AND BARBUDA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ARGENTINA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ARMENIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ARUBA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">AUSTRALIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">AUSTRIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">AZERBAIJAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BAHAMAS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BAHRAIN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BANGLADESH</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BARBADOS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BELARUS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BELGIUM</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BELIZE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BENIN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BERMUDA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BHUTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BOLIVIA, PLURINATIONAL STATE O...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BONAIRE, SINT EUSTATIUS AND SA...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BOSNIA AND HERZEGOVINA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BOTSWANA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BRAZIL</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BRUNEI DARUSSALAM</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BULGARIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BURKINA FASO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">BURUNDI</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CABO VERDE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CAMBODIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CAMEROON</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CANADA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CAYMAN ISLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CENTRAL AFRICAN REPUBLIC</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CHAD</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CHILE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CHINA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">COLOMBIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">COMOROS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CONGO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CONGO, THE DEMOCRATIC REPUBLIC...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">COOK ISLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">COSTA RICA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">COTE D'IVOIRE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CROATIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CUBA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CURACAO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CYPRUS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">CZECHIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">DENMARK</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">DJIBOUTI</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">DOMINICA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">DOMINICAN REPUBLIC</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ECUADOR</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">EGYPT</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">EL SALVADOR</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">EQUATORIAL GUINEA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ERITREA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ESTONIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ETHIOPIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">FALKLAND ISLANDS (MALVINAS)</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">FAROE ISLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">FIJI</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">FINLAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">FRANCE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">FRENCH GUIANA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">FRENCH POLYNESIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GABON</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GAMBIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GEORGIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GERMANY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GHANA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GIBRALTAR</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GREECE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GREENLAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GRENADA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GUADELOUPE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GUAM</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GUATEMALA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GUERNSEY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GUINEA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GUINEA-BISSAU</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">GUYANA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">HAITI</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">HOLY SEE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">HONDURAS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">HONG KONG</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">HUNGARY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ICELAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">INDIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">INDONESIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">IRAN (ISLAMIC REPUBLIC OF)</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">IRAQ</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">IRELAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ISLE OF MAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ISRAEL</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ITALY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">JAMAICA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">JAPAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">JERSEY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">JORDAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KAZAKHSTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KENYA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KIRIBATI</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KOREA (DEMOCRATIC PEOPLE'S REP...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KOREA, REPUBLIC OF</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KOSOVO, REPUBLIC OF</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KUWAIT</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">KYRGYZSTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LAO PEOPLE'S DEMOCRATIC REPUBL...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LATVIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LEBANON</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LESOTHO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LIBERIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LIBYA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LIECHTENSTEIN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LITHUANIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">LUXEMBOURG</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MACAO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MACEDONIA,THE FORMER YUGOSLAV ...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MADAGASCAR</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MALAWI</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MALAYSIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MALDIVES</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MALI</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MALTA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MARSHALL ISLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MARTINIQUE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MAURITANIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MAURITIUS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MAYOTTE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MEXICO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MICRONESIA (FEDERATED STATES O...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MOLDOVA, REPUBLIC OF</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MONACO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MONGOLIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MONTENEGRO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MONTSERRAT</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MOROCCO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MOZAMBIQUE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">MYANMAR</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NAMIBIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NAURU</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NEPAL</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NETHERLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NEW CALEDONIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NEW ZEALAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NICARAGUA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NIGER</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NIGERIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NORTHERN MARIANA ISLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">NORWAY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">OMAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PAKISTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PALAU</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PALESTINE, STATE OF</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PANAMA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PAPUA NEW GUINEA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PARAGUAY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PERU</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PHILIPPINES</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">POLAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PORTUGAL</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">PUERTO RICO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">QATAR</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">REUNION</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ROMANIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">RUSSIAN FEDERATION</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">RWANDA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAINT KITTS AND NEVIS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAINT LUCIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAINT PIERRE AND MIQUELON</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAINT VINCENT AND THE GRENADIN...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAMOA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAN MARINO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAO TOME AND PRINCIPE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SAUDI ARABIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SENEGAL</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SERBIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SEYCHELLES</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SIERRA LEONE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SINGAPORE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SINT MAARTEN (DUTCH PART)</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SLOVAKIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SLOVENIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SOLOMON ISLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SOMALIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SOUTH AFRICA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SOUTH SUDAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SPAIN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SRI LANKA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ST HELENA,ASCENSION AND TRISTA...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SUDAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SURINAME</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SWAZILAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SWEDEN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SWITZERLAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">SYRIAN ARAB REPUBLIC</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TAIWAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TAJIKISTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TANZANIA, UNITED REPUBLIC OF</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">THAILAND</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TIMOR-LESTE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TOGO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TONGA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TRINIDAD AND TOBAGO</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TUNISIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TURKEY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TURKMENISTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TURKS AND CAICOS ISLANDS</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">TUVALU</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">UGANDA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">UKRAINE</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">UNITED ARAB EMIRATES</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">UNITED KINGDOM</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">UNITED STATES OF AMERICA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">URUGUAY</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">UZBEKISTAN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">VANUATU</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">VENEZUELA (BOLIVARIAN REPUBLIC...</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">VIET NAM</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">VIRGIN ISLANDS (U.S.)</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">VIRGIN ISLANDS, BRITISH</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">WALLIS AND FUTUNA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">YEMEN</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ZAMBIA</span><span class="s12"><span class="Apple-tab-span">	</span></span><span class="s4">ZIMBABWE</span></p>
+        <p class="p15"><span class="s4"></span><br></p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td9">
+                <p class="p12"><span class="s2">Challenge</span></p>
+              </td>
+              <td valign="middle" class="td5">
+                <p class="p13"><span class="s4"><img src="file:///app_btn_tooltip_field.gif" alt="app_btn_tooltip_field.gif"></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td10">
+                <p class="p13"><span class="s4"><img src="file:///images.faces.jpg" alt="images.faces.jpg"></span></p>
+              </td>
+            </tr>
+            <tr>
+              <td valign="middle" class="td10">
+                <p class="p17"><span class="s2"><b>Please enter the challenge to continue</b></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="p15"><span class="s4"></span><br></p>
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td11">
+                <p class="p12"><span class="s2">Challenge response</span></p>
+              </td>
+              <td valign="middle" class="td5">
+                <p class="p13"><span class="s4"><img src="file:///app_btn_tooltip_field.gif" alt="app_btn_tooltip_field.gif"></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="p14"><span class="s4"></span><br></p>
+        <p class="p15"><span class="s4"></span><br></p>
+        <p class="p15"><span class="s4"></span><br></p>
+        <p class="p9"><span class="s4"></span><br></p>
+      </td>
+      <td valign="middle" class="td12">
+        <table width="205.0" cellspacing="0" cellpadding="0" class="t2">
+          <tbody>
+            <tr>
+              <td valign="middle" class="td13">
+                <p class="p18"><span class="s13"><a href="https://swiftref.swift.com/"><img src="file:///SWIFTRefdirectories.jpg" alt="SWIFTRefdirectories.jpg"></a></span><span class="s4"><span class="Apple-converted-space">Â </span></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p19"><span class="s4"></span><br></p>
+<table cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td valign="middle" class="td14">
+        <p class="p10"><span class="s4">What is a BIC? <a href="http://www.swift.com/solutions/messaging/information_products/bic_and_bei/index.page"><span class="s11">Learn more</span></a></span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p class="p19"><span class="s4"></span><br></p>
+<p class="p20"><span class="s14"><a href="https://www.swift.com/about-us/careers">Careers</a></span><span class="s15"><span class="Apple-converted-space">Â </span></span></p>
+<p class="p21"><span class="s15">Never miss one of our newsletters <a href="https://www2.swift.com/newsletters"><span class="s16"><b>Subscribe</b></span></a></span></p>
+<p class="p21"><span class="s15">Follow us<span class="Apple-converted-space">Â </span></span></p>
+<ul class="ul1">
+  <li class="li22"><span class="s17"><a href="https://www.swift.com/about-us"><span class="s4">About Us</span></a></span></li>
+  <ul class="ul1">
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/about-us/community"><span class="s18">Community</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/about-us/partner-programme"><span class="s18">Partners</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/about-us/careers"><span class="s18">Careers</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/about-us/legal"><span class="s18">Legal</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/about-us/media-centre"><span class="s18">Media Centre</span></a></span><span class="s4"><br>
+</span></li>
+  </ul>
+  <li class="li22"><span class="s17"><a href="https://www.swift.com/our-solutions"><span class="s4">Our Solutions</span></a></span></li>
+  <ul class="ul1">
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/global-financial-messaging"><span class="s18">Global Financial Messaging</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/compliance-and-shared-services"><span class="s18">Shared Services</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/standards/about-iso-20022"><span class="s18">SWIFT for ISO 20022</span></a></span><span class="s4"><br>
+</span></li>
+  </ul>
+  <li class="li22"><span class="s17"><a href="https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance"><span class="s4">Financial Crime Compliance</span></a></span></li>
+  <ul class="ul1">
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance/the-kyc-registry"><span class="s18">KYC Solutions</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance/sanctions-screening"><span class="s18">Sanctions Screening</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance/sanctions-testing"><span class="s18">Sanctions Testing</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/compliance-and-shared-services/financial-crime-compliance/compliance-analytics"><span class="s18">Compliance Analytics</span></a></span><span class="s4"><br>
+</span></li>
+  </ul>
+  <li class="li22"><span class="s17"><a href="https://www.swift.com/our-solutions/services"><span class="s4">Services</span></a></span></li>
+  <ul class="ul1">
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/services/training"><span class="s18">SWIFT Training</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/services/consulting"><span class="s18">Consulting</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/services/operational-services/managed-services"><span class="s18">Managed Services</span></a></span><span class="s4"><br>
+</span></li>
+  </ul>
+  <li class="li22"><span class="s17"><a href="https://www.swift.com/insights"><span class="s4">Insights</span></a></span></li>
+  <ul class="ul1">
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/insights/news"><span class="s18">News</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/insights/press-releases"><span class="s18">Press Release</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/insights/white-papers"><span class="s18">White Papers</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/events"><span class="s18">Events</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/webinars"><span class="s18">Webinars</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/insights/swift-institute"><span class="s18">SWIFT Institute</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/insights/innotribe"><span class="s18">Innotribe</span></a></span><span class="s4"><br>
+</span></li>
+  </ul>
+  <li class="li22"><span class="s17"><a href="https://www.swift.com/ordering-support"><span class="s4">Ordering &amp; Support<span class="Apple-converted-space">Â </span></span></a></span></li>
+  <ul class="ul1">
+    <li class="li23"><span class="s17"><a href="https://www2.swift.com/idm/"><span class="s18">Login</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/our-solutions/services/operational-services"><span class="s18">Our Support offering</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/ordering-support/ordering"><span class="s18">Products ordering and configuration </span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/ordering-support/billing"><span class="s18">Billing and invoicing</span></a></span><span class="s4"><br>
+</span></li>
+  </ul>
+  <li class="li22"><span class="s17"><a href="https://www.swift.com/contact-us"><span class="s4">Contact Us</span></a></span></li>
+  <ul class="ul1">
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/contact-us"><span class="s18">Offices</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/contact-us/press"><span class="s18">Press</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/contact-us/sales"><span class="s18">Sales</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/contact-us/support"><span class="s18">Support</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/contact-us/training"><span class="s18">Training</span></a></span><span class="s4"><br>
+</span></li>
+    <li class="li23"><span class="s17"><a href="https://www.swift.com/contact-us/events-webinars"><span class="s18">Events &amp; Webinars</span></a></span><span class="s4"><br>
+</span></li>
+  </ul>
+</ul>
+<ul class="ul1">
+  <li class="li24"><span class="s19"><a href="https://www.swift.com/privacy-statement"><span class="s4">Privacy statement</span></a></span><span class="s20"> <a href="https://www.swift.com/terms-of-use"><span class="s21">Terms of use</span></a> <a href="https://www.swift.com/sitemap"><span class="s21">Sitemap</span></a> <a href="https://www.swift.com/website-feedback"><span class="s21">Website feedback</span></a><span class="Apple-converted-space">Â </span></span></li>
+</ul>
+<p class="p25"><span class="s4"></span><br></p>
+<p class="p24"><span class="s22">Â© 2016 SWIFT</span></p>
+</body>
+</html>
+¤Ô_WebResourceResponseZimage/jpeg_file:///SWIFTRefdirectories.jpgO
+bplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///SWIFTRefdirectories.jpgÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A½ŞKw°Zimage/jpegJİ#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ş ã î ÷ ı 	 ).<?M_bx             8              zOJİÿØÿá Exif  II*            ÿì Ducky     d  ÿámhttp://ns.adobe.com/xap/1.0/ <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmpMM:OriginalDocumentID="xmp.did:B4B312BDC917DF11B7169B074CD2A24B" xmpMM:DocumentID="xmp.did:9AD5A494502911E2BA03A1E2E54CBA10" xmpMM:InstanceID="xmp.iid:9AD5A493502911E2BA03A1E2E54CBA10" xmp:CreatorTool="Adobe Photoshop CS4 Windows"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:FD299C14E325DF1183709344EC2B9275" stRef:documentID="xmp.did:AFB312BDC917DF11B7169B074CD2A24B"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>ÿî Adobe dÀ   ÿÛ „ ÿÀ   • ÿÄ À           	
+           	      !1"	AQa2#q$¡BRrÖ—Xb3S%ÆHx 
+   !1A"Qaq2#ğ‘BRr¡‚²CÓb’¢s”Ñ3Sƒ“Ã%UVv±³$DdEFÿÚ   ? ïã¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR±fÓÜÚ»IWT´í;¼. â‚²îÊGR E´Tb ¤œ£ŸPş[t”?¯¨ f;È°œnÓç³—1[[ùn=XüF¬ÇèPMH¸çä|¾øcxİœ×w^aÒ£âîtDK0¦ßùª†b³È®¿kE'O4‘¹lea û`pÎ§á9'‚ƒÉEÃÖ§TƒœçKø·‰š)deÓ –à•_¬D§q¼êÑ®°áÿ „k™•.¹Æ@B„Áj7ƒLã`:~Ìn>ZÇØŸ‘®âì…WúíÏ=Vd¹LTã5ò-)ĞLş\ ‘m8 ğn9Uâ¦ãõÍ-—îïp²ì}ÜŒ°FV!ê(ş–5ĞØ>Âö£ «íba¹˜~½Ék‚~µ˜ÇõP
+ŠS»aZT:Ö[İÆÆ²¢&QYëDÜº‡Q9ß¾p&ıã[œÆZøî¼º¹™íÈïı¦5²¬°Xj…ÇYÚA§€ĞõTU¬İã¶ªıCgn[-Ï—¾İuRW>>âg)ÿ Ó–K$ˆş†`ßH5’x"˜{r*²|~ƒYj«Ø}õDYª›g×}¡"1w‹„=8*Ñåk“×øN™‹û³?aË¹N4†ÇdoaÓÉfÎ»¶ŸÎ*3“àœ+4»2¸œtàù½¼E¿3mÜ>°EMıYùníF¨[%+[j!¬ÖÛ
+Ú:`P/ÀŸ­¥°-éÿ ˜åcû@G×6V¿|ïÁoŞûqâ%@¯§Ğñí:ı,´ÿ $ü0vË6ñ‘Üc.Ï‚BÉ¯Ó»ÆŸB2}VÛúÿ ùbë¾İYŒëëtÅ­Ñ“@´¹EåEË•E¬íÍÓEå¨!ËôYËè&ç7Çï·Ï”µÊnÇ_¶ƒI1ÓÂQ ×	ùë˜y¿á—qt{Ü?·–Æ('XAYÀı¨	$øvÒ~jÙûÌ¤Ú7í»ÖOMÃWMd ±
+¢K"²BdÔIDÎ(€ˆ9»#–9âÂÁ¡a¨ ê>\é4S[Ê`Y&RAVAĞ‚PAéU«T©ŠS¦)LR˜¥1Jb”Å+Q=Úü U4Z²z×L6ùµ’*íåf•1]Ó¨®D¾Ø&èPT¿ŸDâ&úTÌ"%ácˆÿ (tr{×aÆğÜp%ÎtÏX¡?N‡ÖãöG¤iê>UÔ ü:dù’GÈ9i’Ë’
+F=3ÜF£îã>ÈÜÚúªæßgm]‰¸ìïn[6İ5p±>	ßK»:ålŸÊeÓågÁ ˆ7M4Šè^só9¼¿!¿|fy..Ûõœë ø(ğUJ ¢»÷q¬Æ®#ZÃm`Ÿª‹¦§ö™¾Ó±óf$ŸcüÃÖf˜¥1Jb”Å)ŠS©±Õ^ùnŞ®I3e,½¿[{ŞRzâÂõu¢ÊŠ…)VZ¸èâ²µ×å)@Å@[œÁüÄñÍ™Á»£É8LË¼†ã¯ªŞBJéæc=LmõzOššÔÉì¿î=³Muµä}Q(¨ğ •~;½@}–ÔZûMª{ILBÓ®å„²-ÒD¶Z”˜¢…¯"`(¨ÎI¡PDLì¹HN‚äõ!¹½µÃy¾›ãÅş&O½Ğ{‘6‚HÛàÃÌ|j¬<ˆq÷¶ü—·fÆçcÖİ‰ö§MLS/“+h4?´‡FSĞd®LªLR˜¥1Jb”Å)ŠV‹?&×TÅf:ï£&A9’<~É¼G/üúújÁj¬¤LÌº‰›‡®
+>mÊ>Ñ8PL%æ>ò÷i±¦N%ÆdÒ÷M·)êšøÄ„x9ıvñ_×];'ğ÷Ø˜òÉ;æ0îÇêÒİÇIHğš@|Pùµ=ú£@yÖ9ÔQEUCSœÇQC˜N¡Ô8‰”9Ô0‰Ô:‡DGÔG9–,†º×x*ˆÆƒ@ Ğå_9ñ_Å)ŠS¦)LR˜¥1Jb•”ô¾éØ:ù±u´âğÓ±KÜDÇ™Î"&Xù'Ñ¯Ş¡üEœ ÁŸã¼‡/Å²±åğòîõı—_4qàÊ|Ççµåœ?Íp²ày+-”£¡ıdo'¼U×ÄõA"ºıêWj©]­ÖLîußn2ÆÃÙ»TÎ·ºê»;ìù EŒ|R™V‹ºïşÎ1¼ë
+¹Mñ4Y¢×Séı*|Tù¤<´îwmrı´ä-‰¾ÖKÕ­æÓA,zøü¯@ëä~‚	•Ù:­mLR˜¥1Jb•®ïÈ¿nÃ«ú„XÕß$M³±ˆú”‘VOê ™&DÉ3qU™@,Rn
+›QNñRzğC†j>îsáÂxñŠÅÇñÛÀR½P·)è‚ü\­éØ~×âòŸ{"‡ùbÀ¬—C¤ŒOİÀ‡¬‚_à€üEr.éÓ§œ½zåw.³—.\¬£‡.œ¸PT]Ã…Ôª²ë*q1ÎaÂ"""9Áï3´’1i’I:’ORI=I'©&½C8â`U"ET   h   t t¿,¥_•˜tÖš—İÖèØË=JÎ‹¯ì{2Í=s=œ"ÕêêÇ'.©¨Uíó¯¦Yˆ¢ÈârÜ—‰M ã¼z~Gq<0Ïoo­¤—I7¹±c‹nó¤QÊäú !×Cç 1^YÊíx•­­Äö×WRŞ_Eip{;ÚiƒÏ4ª„i„-H«Ø´$¤}"odR¯ÚóoSj®âØİ%5ë‹›g´å§™¤2Ö
+ÎÆ¥kûb12o JEÇ}AÊ‰—„	—œVh±’åñ·v™t«3@fçD2Gq„cé*4{ˆ]ÛºU¥5·Ÿ1/c}‹Ë\«´	r +8ŒnE-­ÅÌ%Ñ}F&‘eÚ„*5¬[n®%S°¾FÉZ·$ÈŒ[AëÙ
+ûá}Î@ÄbêB:%Ú‡`wBİ$rŠ…(˜ 6#f,.ÚÕ&†áWoŞDKFÚ¨oIeRvëµµQ££©’âïÛ'`—oqjÎ[î§UYWk2ú•YÔnÓrèÇUe'BHÎYÖB˜¥1Jb”Å)ŠS©5Ô®ËYú³¸`ö"®ÜÀ8:P÷šê.$,5g§õˆ
+F yPÍC”}µÈü'8Û€ó+ŞŸ‹+lY­‰4`è$ˆ£OËö‘Ğ5¯;ŸÛür8œ¸K°«z ½¼¤jb˜´ëãµ¾Ì€ª~ WgË„ú«_ºU$ÛÌWlñ&áäZœ‡IÛ	ÄrÙRŠj
+aIPò ’f)¸0¢xÜ…¦VÆ•‹‰-']xa¨?ÓÔy‡­y9—Åßa2wŒ”f,…´­ˆ|U”G]<ÇCàGQĞÕÙ—õ¦)LR¼n Ñ9Y6í›$«‡,`MD‚ª‹*¡Ä¤M$S ˜Æ  G>%u2î@@5$ø <Iú«íåq`´¬@ u$€æIğ®/;±Øgİ•ìÖúWFV¨ÅÙêô‡8™uUÖEƒ’N)•Y¥L£åD>'qÇÀ¡tw#–¿2å—0ÄØ+{p!¥Î®~–¯Z{EÁ íÿ ³Âì$è&¹m:´ò Xã¤cH×è_¦¢†@keWğ>û‡×õõçà £Ÿ§ã¯Sù}5ôÃM?/ËòòÒ¦wM¿ûUÿ ã-åÿ Åóaöóÿ ŞíÛßûºÔ½Õÿ ù¿ıÙÿ ¾¯gY½«éÎİì›kÇĞd´c½IõÙ£bÙ—[•Aåf+’{RÒÑL ^¾X©‡dÜâÚgóÊœ.),¸ö3uªbŸmTBÉs4ÑÑ|™•QÜ©EÖ©wx²<«‹ñû¯š2·®«¡h­-àe‘üÑ¤HÔŒv®æT¡ØQº³YŞ{$¹õ„]>=	VÛL4fµÜúû\¼’Õ3RUiİ[nğ•Ô//V3ƒMµdùç¼™Êš'PL›e¡Áár™†k$·„Id‘]-•½äå­UÚ'¶—DŒLNã2£¾ €¤ë®»ÁÜr>C‡À*ädºœÅ‘’k&ÈİØ\İ*^<i4wk$¦İ@QnòF›H,á@ÒŞØúúTUwÖç®ë½M-v<_İÖ#ZR‰i×ôM]¶iÓîöK=S³á3¯ÈÛç¡Û·3h×)×Öx¢ ©ŠJ®co‚±Êò+K;	2EìLj!÷`‚Úêsp-nPˆÚWE]’ÆÂåS@TÕî;wÉrXN'}“‹#É,În77–W	Úµå¤ŠÒ¬»7¹¨nUË«nZ·£ëœÑwî—ëŞ¼„Ûµ­-§mõJ‚0µ¹úrÕû¥¦jÛ¿édHêµ«8¨ÖœD<ûC2¿N@Ì¹ÈcZEeÿ †d9-Æ"Ò,ü8ÛIbˆ$oi]%¾6}cBSî?i7‰L[H&ú{ïügÄ-³·Óq{Œ½ôNd–9ÄCãVü‘,ŸïÒ_~C@&ŞF+WN¥Õ©Í§¯uíb´İÏ§íeeG‚¬E6AûèšşŸŞğ˜è¤ èòè[¥?‰hÅ³†Ì:e)=ï+¬|K•Â]g-- ¹ÍÃyi.ØR5™c´½HÕBBâVÓ|JŠÊŒ@v¶9KGhüÏß_\ÙqÉì/¡İq$®J«Ë}’Ws%Âpg‘ÕäPI;tıuş˜×u{F¯Ñ;"›çcÒtæàßw¨¦ôÈËU²É²¤b–”ÖzÙx¥&js7&5jYÄëx`ÎEÓÕRPÜ(qÏ¼OÄXßXñ|Åº6bÛw}2ˆVYd¸e-onW|O2Å,ÂßİD‘”¦¾sœ³;‘Æäy–í×y•±Ç[¹á†+Dp—wAÄsGMs#Û›¯bI"HÕ”zE]ÚŠ3FmK‹–‘Ö’7Wbm
+ô­Î[­ú¯ôke•ºÏ;©;§k…r®OZªó¬™ºi&ŒCS5*¢,eÈ‡7øxÆvó<ÖopMåÌm3cí,aš5³™ÌF{‰£ybpŒ’—n¾¦,±|¢ã™q«Å¼í@°´• L­öJâ	ZşŞ5™gºµ‚Xáš6‘&Ã
+ BújÃcŞƒaY>•6BlF-c×5ô+Ğ-Y1ó+S(ˆ®íÔŒ¢p"ï],³·B@:ÊAÌd×/yókomjBˆàOm _š’Í§Fv%›MX“ÖºC†8+d×W—².ÒÜÉîÈY´×®ŠªšõXÑU]Bè*ÂÌ]f©ŠWDŸ†Æ­7^µuÊÆÿ İyS"–ú;\=ÓÖß<*3ğÍÅCC§0ñ'	&@à¤|¨ÿ 	ºü<rósg?½}d€{°j»c¤ˆ?uÈ`“·®üWğ%´½¶ç¸ôÒ’ ¹Ğt÷UuC§M^5*Iñ1¯™­ígOWS¦)P?òC·WÓ½FÙRQÎNÖzê“]o²JûJ‘Í¼Um*ª' ‘fõ„¨A/ !ñÍ]İüùãüöHÛmÕÈèAĞë.¡ˆú£~±[›°\]9Wsñöó¨k+B×R5A¡@~ƒ)Œ šãÇ<ø¯T)ŠS?Iò—åùk_Lwùyù*í¦_¯Zâ]Iıyu¶ĞçUd´j“TËÅ^]Hç
+ »†
+IA¼bğì—YªG:B2ˆ€‰C‹ìvW)‡¸7X››‹[¢¥wÃ#ÆûN„®ä*t$FºÂ±Yl&=l,³¶–·¶AÃˆç‰&@ÀdŠË¸@:j#^¦½÷}§³vjÌœl{Ø+FDcV¼[ìÅ£ÑXŞj¦ÄóÒÎÑ5êb¦%QÊ¹<æk2Êù‹Ë«·A¢™¥’R ø….Í§æª~7Ç¸òº`,,¬RB‹x"„1„j»ˆò×Z¨CîÇ^±IÜ 6ÎËƒ¶Í5hÆfÑ{´FX¥ÙG·E£’sl¥“~Õ“FÉ$Šjªr&še)@
+P «oÈù¥Ûä-/ïb¿‘@yRyVG
+ PÎ3   @ ĞU®%Åo¬#ÅŞã1óc!fhá{x^$f%™’6BŠY‰,@’IêkÉ¶vœµõşeì{Ü™V$•Ö*åc¶ÈÉ#‚¾±µ“FaØ.DŠ0
+ <ğNörÖı²¶·—qäß]Ó,Ò,­¯é:é×SÖªÜñ7yŒL%æ>Æ\,zl·x"hWN£lL…MNš(ÓZò¡²ö;[ŠÛ¶À»6ØN*õ{Ú¹ÔnK¼\€ŠÎÖ´&ü³j:U ñ2‚¸œÅôã>3˜"sİÜ®X±&q+‰‰=	2nŞI'vµQøşLHÀÉcfØ5P¢ÜÃ€(:…•öÀ¨t¼6K½Îã>6«}ºÍk³˜[‰¬vIùYÉã}2‚v¢3nİH·8ùùŸ ú‡Jó%‘Èİì…ÄóŞôûÉúxzØ–éå×¥UÇâ18›/á¸»[{lw_ºŠ4>½¡/QãÓ¯dïY«R·©‹…¢Zî«ÆÒJ\¤ìÏíJH³M™¿RÂéÚ²çzÑ6é•%Ea:eL Q (pŸ'’¹¾ş)qq<™"ÁŒÍ#4»†€7¸I}@ ®£A§…~Ûâ1xÑ†´µ¶‹ "E„+YDABmbI#n„“¨ëW$ÎìÜÖ;U¶Ã¶ölí®	³ÖPvi›íªRÁÊIÚH´Šš{*´”{gí¨’É¢¡ªj¦íÇ$äWwqßİ_ŞË{’<ò´ˆÁ]˜²†‚ ‚Añ¬}§â–Rã,q˜èqÓ2´‘Gm
+E#!¬ñªb¤¥ €GQXÇ0µ!¦)LR¤PvâúC²›aÊÍ£XZØÅY5ER«c0AXŠsp%0# ¢ÅôR(ú „Ï€çÛrû¹b"IÕdë§İIè“ô+õP>éqÌ8Sêåí™âÔk¤Ñ}äZ}n¡OĞH®ÚÓ7™
+oO˜9)€ÁÏÀ@ ğ>œç¤€ê5¯!kôÏÚS­~p®§J7Ak¤>Û¹ÚI/?”Ş
+QOıcq)  ?§¯íåÄ¶DˆqX€z3M3İ‰ı©+µ¿¸ukŒŞyÇ©Rt?¼^IûW>™ÉÕÜë`Áô«Ö‘±ŒÉH¿p‹F1ì,ñë×nTjÑ«r(»—¨`)B‰Œa  ÊÃ5Ä«º3ÎäU™‰ğ I'ÈµJyá¶…®.]c·E,ÌÄ*ª¤³  u$_÷m1¸u£6²;Tlª{åÅ«'×j-¢ªÍã  ¨-šº‹`ƒ…Á2‰¼a7ÏfW%Æù!>^ÂöÖ:š	bR~ º¨'è¬&#–q^A3[àrxûéÑw2ÛÜC3(ğÔˆİˆôÔ+Ü…ŞjÀBÚ’ÓaJ½‘h6ÕÛ"zêàx	÷wcëHBÌc¥V°¿zŠJ‚ŠÚË‰Ìr€ÕW”5¬wË¿6SÉòòìs)GÙµŒŒÊ©´å€]IE¹¯[Ù±­–Æ¸ËºƒÜŒB¥¥2&ıÈ"Uf°Im 5V³ö<&	^¿nàŸR5I’A©½„ÁáÒt“eI0?ZhÔ¬DL¸Ú*§)ŞB—É\Ëßùoá9?™)»gÊÏ»h:Û³]º5ÓMN•kşapjoFsòB@çÎ[lŞA`›ıÍ»Š‚Áu×@Nš
+ğ“¯[õHÆ“IèıÀxwò¨A1–&´º1ìã©ŸéÆĞÍ„(µq*âÃş ÈqXï?>\§ü¡ËBáyaœ o–›irûƒ³BÅıGRş5éU:áá­g.’3#'ÍÛïXÂ{¥Êûš„}áb6„õ“·­}Nuß°¶RèÍÅ^ûÓóEC}óY]b~í(F/eõğş½ùc#\9RóPn¢œxÂ!ËlÊ¼^F#+íMöÓ.öÚÍµw ÜÛU›A©Ú¬|¯ËNwÁòá°Ìâ§¦ù=»»wØ›•7¾ÙÕŞê›ƒs*ë© ×¿Êwiÿ í§°ôobÿ Ã™sü‡Î?òl·ü%Çøugşfvßÿ Pa?ã­Å«~'¯{özRÁ	£öüÔÕIÛV¨ˆit‘”¬¾zÜ]³e`g
+³¸gnÚ‡º’nH™ÔOæ(zå¬G•ÜÍ-µ¶3#%ÄE[i™£b7 ê”%z€À:•{sÎxM•¼—™ŒTV—*Z{¸%U;Y¢f	[¡*H¡ëWùNí?ı´öşì_øs.¿ùÇşM–ÿ „¸ÿ ¬¿ÌÎÛÿ ê'üu¯øµn×ºû¾­¥|z¦‘Û¶bE¼s&jö¶¹Í:A“ÇqÏ>4l+hñ¤„zè*’'Md!€C ZZñ.W|Ùc2b­²ÚgÚÊÅYNÔ:2²²z†RPjúûœp¬aEÉf1væDíÜîVUueİ Ü¬¬¬Ôe èA«rñ«vn²]‹m“®¯zõÌ¢J/ŞñQ°T×‘A‚k,Å)èö
+;I%ÄÆLAË<7…*¹›;«F}v‰¢’-ÚxíŞ«®zUş‘ñîB®øû+äŒ€æŞx¦
+O€c6Ò|µÓZ±3Yª»àõõúÏ?g­R-öÕQ¹İÚ,0u©™h:ÛT’÷Ôs?,Á“†íÓGç1Ü(™@¾¢<fF×–¾µ–úÊÖæk(2H‘»¤`IwU*€¤±µŠ¼Îá1×c²–°d.Xb’XÒII:3rO@¯J´3YZî¬7cìn¼ikªÆ¼°ë:cé5pT˜4MDxâX«”yõä3Ó’9~%È·Y%²„·ïì]ÿ ík^>w0<ë-ˆ^‘AP|ÜooıµrQPÊb•ÌæÂEE;¬âLa˜é8ÉÉÏÊJ^ïM•0Ã‘$A9şÌâÿ Ä„¬Ü¾Êß_JãU¿;M0?Øè_á^‘¹ıwËºşd··aı³ZoÎw®«©OÓİËPÒy[å¤¹kÖJMÇ^º´Öˆ‰íÚè×H±Š-ş¢E¸N@Æ ˜ªı2ËxyÅ3Ï;sÉ1Ü_‘Ì¢Éòs[KneOvßİ}øıtğé×k6šënêñ<§0âÂÃÑ|õ½äBuö.½†ßòÓiıÜ=AÕwh5aö.äêt5Ú:2èÏginÏÒ%c+Û"NMıîÍÅ†EüòÑîNo·lxÖñGjí³¡ŒLí@÷U Ÿ5—·äœÚê(®Vÿ ç-c¸Gf†]ÎŒÒ$í¸
+¥YX–]çÔÀp8+¾'ÜÛ»9î-Ëxíâ<¶²"-Å¹XV Àz­Yœ:2z$¾”$irì)9Æÿ [›"öAt ;	´ ÊÅ5ÕQ»qI¨Ò¹8ıCrÊ,(ˆ¿P§ˆ “^åæã³TFvöò÷ $õ!Ù@ øÇo˜ÜtñëÁÛÛÚ÷ûHèŠÓ`í$Ü@haõ#Àì]İt;W_’{¸ÖéúîÒ¡·mgŠìNıën¹-Òí34œ[s¯‹]xÂãr.*éz›çi§‡L±ÌNVà™•v¸N{‹‘»´ÏÚÇ„Y£æ\<YİÂ­µ¾Ö÷U:ú˜®&où¨ãû½HÃ]v§cÆï[5¼¼	Ÿº0[Çvºº÷ÀòtûÄhÖÒİ3Ë ÷‰BV_sØôRµÕ†Ã#«¢îÍ``ÌpxØ¶kMÊy0¶l§Jˆ‘‹Tˆå_¶·Y0<tJ<ª åwÊ+ªânK{‹íöißÈOQîÉ,šÍrcğU ±‰XkCVõ´„î¦µ¶âVèg ‚>I-¡’Aé>Ì0G÷‹ ûLt_y”é,í¢ıÚB«$÷:î{mù(…Ö‘Î×•¦Blšöª†jw.E•Z4îî›Ïº+(å9WÂ§.c ò%ñ™rI$çİè‹1°ŞGlªIĞCmÖàuÔ’¶ºzºuÓCP'}±ü?MÈ'QZl|·ÀZâï_—M4 É
+iú šê+ç{×hİì7d·£¾ÉP$ÚRàî˜Z•»U•éF4¬jÚş6jçªkT¦k¯&HÒ»sşHR2Š*ÜÊáùÉì±¼³˜fy<™‹gÎ¦H 7+>–ácI­c…Ip…Ú7—BI@àï¼6ÿ 1Áø'á±`/c–òh-äçäÚßuÓ4×2<p^KpÀ!—bK[€UÆ}$Úİêdu:öCœûÃu°²NµnUZ¥e¼[ÁÖ I6d”:ak‡HŸojnHØë(˜şHó%å·?ËòM ÊdÖI 	&”Çaúêc‹Aí§‚’IÔí#gÿ +ñ.iüÎ–ı0ø†Š2tc¼"I¤1ê4Y%Ôû®:°Uàs¯söûŠpÙTÈ:?«è:«[¸@@ÌÚ‘³tß¢å‡Eş¬3ô\$_*ˆ	¦“÷'‘¾?¸ˆØ	`¶·ÓÀ|° ÓÜ.Œ£@Tm>b¡¥â±å;TëÉPÉ?$k›Ë |[çIÚAmN¾È•¤7¨yVcÑšê^ÁÓ	Êølš&¿ØıŞßÑ•hI]‘%p‹os¬kELõv-%+4ëP'!'±fj »úFJ‚‚®e”"‘ñŒEÍçmå¶ùË[\×'ÊˆÑîT÷£€’T4pÉêyË.µí»÷0Cæ9ÛKìÃ{ò·¼‡áiÕ s·Chb“O¥-Q\lß"íÜ"—.ó²×õG^¿È£YÛ&êÛqû¥¬‹ª…’*Z?mÚ´^ÎÚŠ6ÉUå$Â[°bÑÒo©W)Ï‹å7¶x#şVÇ,ù>B¹ìÍŠ–ÌPAl%ën?e‘Håu7fxn>û“sŸóšXmñ]ñ&4U'’íK>fñ¡&ºj¯$†4T¡„gúµH×÷kîÃ˜ƒ•¨ÜjuIø˜íxY:Ü«¹©WŒmPZÚñ%t®²Ø×íjÚ1Ò“1íZ¡’ˆø\ä9UÍïƒ†›'–¼’)íç†)m÷FÍ#²Ë´í4kq=²«4ÑªˆDäzªacÜ›œÎ~>Â)­®­gš'k­’¢ÆŠĞÉwn–òµ­µÙtHîÓ0mÆÔV²·n@é:¶Òú£`lˆwğZ\/ƒ^eJ	Ô÷Ãb\­ê\åk›:È³©YØ`†`ö¼£WQè2dˆƒ¢H\÷p¤·ã6¾3ƒ»¼ŠX±ºÏÁñz=Ù½çæMYÀ‰Ü«Æ¨£IœhkµÑ^rü–g—r[	 ›/¥¼ëOíœqö ùt–Ò 73È—AÒV‘ÛX#:“®lÓU¾ë°ÿ ÆtŠ’ĞÎT0˜SŒ¹G€ˆò>Ü>É¹D¢^aRdPÜèGfæ3ö×Ìz„•Ô¸•ô-y_øƒm»Ãš|ä¿;ÚÀçúXÔïÍ¡Zf˜¥s7ù±‹QÁê¹±(•)6Ş(‡ ¤5ÚÜñR€ş¾Ùgˆ#şöqŸâJ¼®ÆçÉñÁÔšR¶+ĞÂ%Ê¿ÉYëê,_óIoşY­2ç9×WÔ¡‹Øz>İ§¨º¯dÁ^éºêJØş'gk¦—ƒX‘¹J#%"ÎÓ¯lÖ¼zQÍZ´rÎu2‰(%wkŒdxÕ®5İµİ“ÊÑÜÛ„›Ü>÷Á$HUTd˜|H:hÚâçÌq|®÷’ñù¬¯,¯ã…d´ºi-ı£F†æ(®NŒYİÑíÛ®Xkªû¶¶ì¢:Ñ”.¸êvwÔª­Î[fÏ]6+h˜«-†í1HBÕ ¦,Ñ”ú£ä„ål’
+¸p°œç)ˆ&Wï?ÉñRqkN€[–ÆÛÜ5Ì“\Y$™”¡	<‹AI!}Ç,ÇRuµ3Ä3Qs+Ş}ÉÑ2÷6‰i½©wŠ+tp&’8y™´ı˜ÂªèEöW;)Uê«=-$;&3xOlªíÕS‘ÔØiŠ,%\Î«‡JOêËvmû©R"Àé±ş¸Yµko?‚7oüi2Oqß«
+<+hÈm}ıwí;@Œ7¸‡İ
+ËK!Ûéò}Ên[s,Ëòaãµ–Ü}©äâI¶Ëªmù}¥7(re+íÈ¾Îå“÷Ü½š¾ê='­ªµ÷q2ÔE¬ö¾Q&?s±GÂÙÏFV NÙÃÅ™Ô[¸Q.s¦³ç)$S$’mÿ ÄTäœê¯Æá1Ğ´sÛcÒÚâf¾EGŞ±FAb!ÔmHg` ªªzéñ>İ\ayN_dçYm¯2wkÙIÆÓHPÓ‘¹ V5,C3?¢£Ò]¹ ôÍm·¶Ù6Œµ’®„Êˆ*-F¥/ÒB^x‚Yåe¬[¶©ŞÅ¥ ãØdV
+&
+{kı@ @úí§ âœS49|_I}q
+ALŠ]
+{ŒòO,0	°Ñ·k {½Åù·6ãÍÅ¸ÁÆÅ¸1›‰.&™•$í"Em(
+ÅSt†@tÜ›4:›×ª{·­:ı±v]¾Ú®°×z®¼š‰×”Á£mb,”ØÓ+Kîì¢N— ²IE[¢SœÆxäVá§å/Šeï3wòå®2G,p:ÛÀ£¬îZì“1Ô •±.û½8åpşàó\%‡ÅÁ„µÅE-¼×1½ÕÉY-¨µŒ%ˆÜ§y˜…(ÂzàTÊPèKI#^')“×)ÃÉLÄµ–}ULIB±š±³Šzº QºRHâ%*Ê y§¹[d¸u³w’Ô1ØÎ‚7eò,Šò'ÍDíİvvö±½òGé@]#s"+iê	#G:ƒĞ12GR‹áRË¥û7@i³]Ü[”vœÌ•AÛúµB…P¨JE=V4íÌÍØ¬{ºí¸Å.éUdŞ<Şk&Š¢è¥)Ñ<û¶ù¾)Æ3Ñr.CóÒ\[3¢‚(™	+´;É$ñ‘·s‹Ú
+Şæ€¡Ö]Úã¼Û˜q™ø¯ş½â*Í=Ìó£ª‡ÜÑÇVÒ©ŞA‘¥)uö‰!Æ»ÈTl[Jzaµšå'P±[˜i›¨Â±»¤ÛÒHOÈ­Ocv‚q.Ñwnq$^	&Y¯¸b¥ÊÏ¾ÏMt“\¾>{‚í#Ä‚m$mÒ1‰fd.¤¶Ñï úZ=Ä,Ûo”Çñ¸-$·´)oj#XcF·İíDín²`«¹¾]š=H&ĞZRö—xè‡®ºïKÑnw)4%yÕaœuê«Q†m"¬Ã š¼·Ÿ«ìIç,¬r3¬9Ú<0Ê”Ì‰SVsÎ¹WÌb0øî.r	ˆÆ¢hâMÛ´f˜IîD…ÑIQ‡RÁÔ¨­ûoÃy=Ës%ÅLss‰Y­æB¡HíÌSZÆ%˜2ê4
+c`Å–ÿ °öûJÚv_\;)3D·-Øw%N&í,]lh{E*ŠbÅ¥æ>pÓÿ xe|M›6ª5¢¾˜T)÷ŠV¤QlÅßpøÅökÌîm.,´x…â…Ø¹¢esx™@VPcÓP°¬p–=¬åøŞ?Ÿíı¥í¨áñÎl|¿3hf;»GílkbÅÔ•›v…›a22­Ÿ)^ì>Ï«/®÷ØµkŞåg)º÷±İÅ·¡ÓÛ{5ŠÅÔuÖİ]Yä-g²œÊÇdÍ5G± TëØËŸ2ÍÛ´+{ew“
+×w¥‘máË$Vic,n’Giw@c†>¥²vóßğN;r—Ál2VX–t°Çss9Ò®\5¼…’à,0Æí;	'›Ò9vGgro«²›*
+ÅYîRª×ªÓÛ¨Ç(Xjsal¹H²&iVf”Å)€IêRüÍ3c‘ò»üÒ`šá½³¡t¾ˆz ˆ•×N¾CÂ§ı¿ã­Äø^3È4¹·´A/Pß~ÿ y9Ôt:ÌîA¾'Æ°F*a]‹ş5â”†é…f©|´%šT
+!Àûs×Ûdâ&ãö(Œ‰L¸sĞÎÎÀÖİ¶ÅFßhÅ#¯<®?¡«Ê¾ÿ Ü­×wóR¯”Ñ'ı´1ŸéCSŸ6eiÚb•¢OÍíWtÍ²Û¢q$ÕJ’pBòP4ttÔI1CäÏWvTøˆg0ş%1æ?˜PtŠiacşñU×_û6Óë®Ìüf–,¶g»f·†áû—hßO¯ŞM~ªçs9»ª˜¥gÔú¥Ú5HERëfıQ%UQ=;±Epä9k¢SÅ@CĞC%C‚sr5l©ÿ Ä¸ÿ ¡'¹}¹RU¹0ñ=kş-aIxizü“ÈYø©(Iˆõ}‡ñ2ì]FÉ1_Ä§ö^1z’.›+àp£À€äræÖæÊvµ¼â¹C£#©VSã¡V ƒ§ÄTºÖîÖşİ.ìekIªèÁÑ‡ÅYI} ×¶Z©h€€—­ÏÂÅZ˜­'W“–‡‘²F·pf‹È@=xÙÓPtAHê·2‰•@ˆ€‡RãgWpM½Â–‰VEBÑ³ AèJ’5ª6¹<môóÚÙ\A5Í³„™Ev‰ÈÔ,Š¤”b:…`	tÒ¨iWÔÅ)ŠS¦)LR«–:Í’2ò¹n¯ÎU¬1àØ_ÁXâ_ÁÌ±­È3‘rmÚ¾lØ:It¼È_qròS Íå•î:å¬òËâi¹$FG]@aª°5Rj:‚èjÎÃ#ÊÚ%ş.xnld×l‘:Émb­µĞ•;X:Œ=Aªœ^Á¾ÁÖ&©0·{|=2È±\Xª1vY˜úÄó‚¦š%^j£Ôb¥*H eÒPÀR€sÀ\A˜ËZÙIŒµº¸1ÖH–GXÜè¯`¬t zè «kœó#^òÎÖ\µ¸Ò)Ş(ÚhÆ¤éŒ¥ĞjIÑXu$ùÕ¡˜êÊ×ÑHeB†:‡02&Q2Šü©¥9„â< ¨}($è¤×ïM76@êk¹­Hÿ –šGSĞ™ÒqR×”øä8 )÷H¨ö§1x - ‚‡7ş#zkÅ1ƒÆ¬1‡¤–ö‘#~òÆ¡¿KkÇ.o˜ş`æ<Ğ ¥Õôò©ÿ AäfOĞ¤ÍY‹$5¦)Pã¾ºq]ãÕm©Q`Ø]X#!Ët¬&@YIÊzŸzM«r‰L¼£î”=9úkŞèñóÉx5õ„CuÚEïEñß¬ô²†OëVÕì§+^Ü¬nRfÛc$¾ÄÇËÛœ{dŸ¡«ÿ V¸ÈÏ:kÖûM5P‰$Cªª§*i¦™Dê(¡Ä
+B…1Îs ê#Ÿª¬ì,N€¤“ä+å™QK1@Ô“àÄÖÄûõ;)G±uçAµ˜w÷N·izkIy]9FQ†Î·¶cq³¹MÁVK··©	“xÜ}Ú¼Ÿ{‡âÑÊÆãˆ3‚C‹™BÉ!×RT€#eë¨øøV‡ì••¶bÃ;Íe‰~[?–œ¢
+5¤%¡ˆi ²†Ômo‡¹GyUÔìUz[¸ï3MXíy×_[/2)‹¹«…&7&Æ
+FI¹@ó×Kƒ$âĞcŠjÔœ„—¶#ä¹L{’c›˜ğN9È²’ªgdià–v¼°Dî¨Ì:É4Ãb¤j¤´’JGë‚±¾“^Ü®[Åpğ³ñ¨VÖæt;c‚ââ4iH­àmí$¬@Hb‡w‚Ø¥^ªÏ];+Õ¹mÿ 1bk¬LUèE¸°8fò6Š÷cMA3¡¯}Y
+=bx×Ld\µ|å"J{DAFPşÖ ğ¼Ÿ/“ƒİf$š+Ñ@YL„Ì:-¹œû&Ó®WÜØª®Xí“/rì±.ãÚàâ‚\‹$×!\DZäZÇ#\‹`n&pË$Hñ«w3¼aFü0^¶ÄL)^ş‡ÚÑVMëNæ¶Ì¬MjUhıq*…Íİ&.¯1Î¥ì«Ä›tÆ¸‹Tš8”MÒK&ÍAg(Ç·¹xF+!ÔK	{·HÜ­³	Œ+m.nwı2¨F”m¨„ºËpn­ã8Élæk…ÉTt†pó>ğ‹mºóLìë	F@ÒI¶6ªÚú¥ö]„æµ{P”ºÖ·«ìİ¥v½Ô¦IiøÛñ«ßéq3÷gm69xÕ«XF<xíâIğ˜çF­÷ 6ÙseÙØl¢¹ºšxŒ-f²u<+$Ä\uUHÙİF€e·Æ÷3æğK¸²/qšÒÎŞÚq:_<Zıõ´ïº›]İî8Ò6mX”4¿[:ûqŞµ*¬ä´İµƒ­RmÍb•«Ò ¡% c`¡g,6êVÅ2›iœ#8B¦²ì:uv’e">~úYn3ÂxK”ÛXM‘šë
+Ö9#GhÑª+¼°Ü˜a"†1ûÄ— ×xÁòîàóŒWºÉ[â­¬ùäşB$šy$YG8n-GÊÆnRC!*²p3úllF}3B|ÂÁ·äíÖ}}×ÙšÕw*ë]£%°-òÆ+wÒÑ|mœõ‚ôV¸‘{j½°D„UÃåLÕ8ùãX™¡›‘Íq=Ÿ{Ÿjİšßtò¹Ñ™#ƒæXl€îJ÷:hò±e–æ +oko}Îc´]"İ¶ª-ÏÊ+	.X}ÜQÙë©fe6\gÑ	w½·G;Ù±¤wVym¤ÎGÀ"ùKt8kµö4d¬Ô«D[Ê<#†@Ú9Ë‡
+ºQ)G‰¦İ‰&ád$qvfå7fKä™auŒ1•=ƒ0wŒÊ­
+}˜Ù˜±÷\Y;,Z^õ[¯µæ1c¤1Ip!¸¥* “æE³$rˆ]n$tªªcf‘âc=­¯:£JÙ›C[ëÊ¶ÿ €™iq‡`kì=MwêÖÇR–Ö¯ WÙ"œX!â`*'\Ë.¼ZHCpuRMÒZ:±Äö÷šÍÚb,3Kñ/¸éc¥¥5ŒÈ¦ET…æiY£”;F’Î÷7/Ç¸íşw%ƒmeoj9&
+³@%iV';É:[¬*³ŸP®Ñ¬²ÇoÓôµï}Ø¤n6ë­æÙúè¿asœÚûı+HÖB¥rRvwÑZó¦.¤^JKG2Œb»t½Ó®«vÊZc¸¶[–^I‘¿ºº¸·7BİgT{©çeÚºÆ"Q”y$–XÒ4(¡™ÙPßey~„ØG‰ÅÙÙÚÜ¥™¹kw’;+kdmí¤²$r’iVDŠ8a–IdYhEy±ZêİôÖÏRÓ½ØÃk{¸YéÔöefŒâé£ésÙv¶°-¦Zv»”=wéÂQ5¤Ê/)"è”Î2­ŸÆIqz×ÙTi’1eÜŞæÉ¦_v?fİŠl÷A{ Üƒ}[d;‘™†Ó¸Ü+Ë¾Å5÷ÊKp }©í{–ğ7³ é»ı’°ŸmK1G":‡oA«×›=BI³gNBEªn‘lıU:i=n“æí$ƒ¤Ê
+«$’¥)€B›s*$s4q¸‘ t À×¨¥mX]ä…$‘9A(J’¤J’¥”•=	V+¨èHëR·¢º}]İÚ=SRU°º„‹BëiJT‚»PU9—(,c ”•v‚CöÑCõÉïl8ùäœŞÇWu²J&“áíÅë ıB§ÖÂµ·y9RñÛäòaöİÉ	·‡ãîÎ`¥´ŸRí¥ñ)J"&€üG€àDxãÔsÑ`4W’ç©¯¬ı¥1Jş€@@8Pˆ|>¥qÕùëŠıtìU™”c·¡_Öux¡¬BÓ$ÆEÙ”—ƒLŞFàğÊ/Ä™¬çÇw8kq]4p®˜Ë²f€ùcêOú¶$iû%Oz§Ø®}>àvóÜ¾ìÕˆ÷#Ì²CôJ€6¿´yVëÔŞ£ªmz•¿t©zR¡Ošˆ´}’ƒ]¯ÏÊY¤!%YH6€~­†ßRi÷Ø7Ô¹LÎ×R"E=ôb¼BëÏ[ä¹º66Ò¤¡ 7i0F2KD$z˜o$z@ïYŸ:²äù>3uŠâBÈdîáx}Ë™e"I”È¢(&g‘uô¡Ø ú‹»>mÛÏRvöğ½î;5ã³’,.Ö™#ŠZZ£UÂÊ"İØ€3¯¡~ÿ 3­Z3‹@‰·Eq®® 6H¥1~U^+À9(ºäW÷9·†æc!„ZÚ£ FŠ‚œp@
+°NĞÕµc	âønçñneÅ1¶|v9í-Ö!9¼¼‘	jSmò±g$³/Í(ŞI.Š=)vòµgì&…ºİhî«ú¯ƒÇ]jz¡Ğ³:­EA¢/b]ªâuíye…å™›rn,Ì¸ä j¯q,¯¹~+'“µh¸¦#E·µ‹I5EÕW1‰$2,låŠn
+–¦›v·!àÙ¬F"ñgæ¹ÍÍu{01,¯!Úêk)†%‰¤H•Uö'®½-ú—c(u+¯aö\EÑ•³bjk…2GŞL9¸lí	pÚ‰SÏ3
+ôô¤ißª“xFê¶h³²"@d]-maÍ1LÆbŞ+¨ïï,&‚2ÎÃİº½ÁíÈÃsJ!` zwµæO€æòx|
+æ[7ÆXdà¹¹Œ‚±¬Ê}‹;töÛİ‰ÛVk†á±õˆÓÉ¡wıO_é]»©&ç¶¶·—¾Øé¶x•§`öyBV–dò•kuu×«=ªI4–UDı¹‚.Íîº _Qâ|»ˆã9?s-ıÍÔñJ—6aLšG¨hdS5¹1°'M$:3jTé¡­Íx>O9Ë±|ÒfBÒÊŞx^Òø²Ç¬¥g……½ÈY•¬Cr¡×]EF¥¼4Xêmë¦'+7Í²'uÕ³q¨´ˆÙÕ^kğx—ÑìFöke¼Ê3Ê>YùÎÁÓ6ÌäPPh	pL¸±å\Tà2¼nâŞîÒÖö[y#š —3•À’Xï:È}¶DGvÛ6ù>Ìÿ ™ğ¼¶ÒæÊú÷ÔRÁ3=¤ntëjb†äÆccDwxÑwÊ[­yµNëĞô6‹5:ÿ _e²5¤.±§IWDÏÙO [d¥÷ú¦BÃ0Æ2gcÅD&Øï#™9g*·ä…1VøÀò~%ŠL´+w¶ImFRIL{Ã\ZGUI.@-2D|!púœ—ˆs\Ô˜;Ÿ›±|~BK¹ÒPñB%ö™-½•Š6y#µw,YI´õO ¥bg{uòıª4•RñL¾À>Ğòû-Ìf½¢£â…}ƒ½ÛÂŞÖBñb¶áIpĞH›OşÙarå² pñTÀdëÜò¾–Ác,rv·qIŠ’ä­¼¤Òû«O$¦hˆÑQäöçfPOF ­­§çXNK˜Éaîì§‡5 {«‚âæÚKx=†‘mâ„Ap¦Dİ¶DvÓª‚Úå—ŸíFÔ¹£0çpotë]ÒÜÀ6bÒ·UŠ²JÀÇØQ]Â’-ä£ÁkØ$ââAºÕPŸ"Ç'&Xm­9ù7yìöEenE”´6ğ˜ÂˆâIÁ;ƒ(XâÚ¬ÇMKUÕçlÕ,x×Ä´KÅp×âêàJY¥™âI"Òd¹‘¥›s"ƒÕè¬²m¨e6„µİÕw¶­Kf UÒ$áä-NâšÎ8’ï™"Òu$ŸÇ#&‰^)g¢°3uâoä8~9q}q”[£%Å„DĞlÜ†R¡Î®Ë°´a‘d]Æ2Å½·ğ¬Çq8Æs”Ûc­pïf°Ûdâ¹™n=Í°«˜ÆÔV÷Ìc•¢m‚P}ØõÖ²èö_WMè:6ª‘&ç×ÉPl[*Eî´ÕÓ…KXíˆÕÌìtºÁ7o	ø'µÖÏIâì«)_:¢bHğ<V×0ÉÚ%¤×,ÖÖ²imuò9dy}Ä(·î4WÇ¸i«j±oòó’Zs[ÎInqÏ{¢­İäzİÙKoå‚(àö¤•˜ÖkUèuÑtj¹Ş/^Q§]BÖvuöå@ÚÚÿ bët„¾“¾7¹¬øô	SÍÍ[–¹V“ÖGvŠÈ5+®—@á$Š‡p¢¶¸nUÅpØ¹d¶·¼L¥ÅÔÃG³Ÿİ,`bï1š1lª¡F*¿|	v{Ü÷æyìÌ1İÜXÉ…´¾³¹µº;“!l`ó(#¦ïkc$q¢ÈãåØÕ!/§¯ìõçû=?»×ŸîÍ^<Aÿ ’·
+Hóğ×ôøWL‡Î·-@ÕóÖÊÄP±mr Ò°E‹ÂÍ(1¢@LP$©Ïè"ƒfçCçh~øƒb°ÉïKËàzøˆô?õêıÕCç^|~)ùúfù<+û±øÂZ]<åÆ„Õ'§÷Aâ+syÑÉôÅ)ŠS¨iŞ«Eö»LHÔ“í/uÓ­a×3K	S+;Hx+íc øÅX 7_à?¶¯Å0ÍuÜ®oÎ¸ãØ)²[¹é£éÕIı™¥¾Ê¶·g»“qÛN[Q·6p"ºŒuİ=GíÄ}Kñ—õ«k-v~`˜ªÚb^ÁXkò.¢&b$QÇÈ²TÈ9l²cÏMPô)ƒƒD¢>|^Y\ãîd²½FŠò'*èÃB¬„Ë¯ˆé^«ã¯ì²¶1äñ²$ÖÆ7Sª²°Ô~‘ùÇëT\³«šb”Å)ŠS¦)LR˜¥1Jb”Å*otC¨ó]«ÛŒØ½jí¾®¨®Ò_aÎ}„”hSû­jÌ]˜°
+F'ÅQQ ñ/–Íí‡¸çõÕ†Ü†ü"0iü:jBêŞBµyûeÛN.óÀêÜéY-cñ!´ĞÌÃö"Ôº}«ætì*&.>2:)¢#"™5bÔÛflÙ"FÍZ ˆr	 İºE!Ï!@Ğ3Ğ+x"‚¶BA…U P4 €AôW•·73Ş\=İË3ÜJå™RÌÄ–$ù’I$ùµVËš¡LR˜¥1Jb•©_È¯ãå¿aã\m­PÕ«ÍÄN,=¦Ív$[4ÿ –ÑUÅ4l¬Ñ/‹e>+#ˆƒCwoµË"9ì*ò×Ô¾áG—Ñ ıR~ĞôŸ#]5ØøÉÁnŒrfgâs?¡ú“jìz<LL~Úª}CÌW/S0ÒÕéWğ3Ñ¯a¦b¬ÆN.Eª2xÅÛ:n¹ª*&pà@@3Šn-®-gk{¤hî#b¬¬e#Äzƒ^‹Ú]Û^Û%åœ‰-¤¨Hee=At ×ƒ-ª­1Jb”Å)ŠS¦)LR˜¥I>°õkdöšüÒŸF`vĞí•AKeÅâ*ı¯¡ùUÃ¥@<W~¢E7Óµ û«ı’ŒY§
+á9q•übén÷e#Ñù’|ÛöTu'èÔˆq;Çûo‚l¦aÃ]0"rgò y(?iÏE =~hBë¸…ÖÚı—³˜+#&ä©ıÎÁ0©Hæ¥!J*¼x¢aéü)
+Bü¤(q^-‹áøhğø¤Ò³µ#Ÿ´ì~'ô yiÍù®kçæÏæßY¤:"±³ £ó“©=I¬ß’jˆÓ¦)LR˜¥1Jb•¯âş>ugk-bmìĞöÛV§F6ñĞŞ_À¼6aqHÉ»2 R8(•Ú˜ÅşXêáv§	ÎŞ&–¹õ]eà²¨Ópø7ÚQàHé[¿µ=òäµ”XI­ïf­Ùº§Å s®Æø¯ØcâõW2=ê¦íë<ò‘;>ñŒj‹™(›|iO#Pœ f!ãæÑ'°ELS‡-×\y&ãWÁ¹'ºù|å»,$è’¯ª'ı×5ÿ E´aæ+ĞîÜ®Ü%ºã×hó«Àş‰ãú3×NŸiw!òjÙ©Í1Jb”Å)ŠS¢i¨ª„I"E9SM4Ê'QU%*d"e(™E0ğ ¢9T À*\×Û4i§@@Ô“àm;©_‹m·¼\F[v£yS¬NtÜÿ î-µ•°¤šäNÈ{‘B‡Õ½!D
+"dÑT=svğ>Ég¹+¥şm^ÇãêM ñÑı€iÀø…jæşç~#øÇc8ã&O‘G ëoÔ‚^AÑØiö#'¯Fe®–õœ×.—AÖU¦uºìZ%¦ÜW’.„ JK?TÇu%&ğÄòUeLcxB” “€ã¸~1\^‚Ñ—‹6v=Y™?ü4¯>9G,Ïó,´™®Ep÷ÒÑTy"(èˆ¾@ }d“•s;QÚb”Å)ŠS¦)LR˜¥1J¡O× mQ/ ,ğ±VI½‡ñqíe#"‰³|’Í×?Ú(ğ>¹kuim}ZŞF“Z¸Ñ‘Ô2‘ô‚5ue{{ºKìtÒÁyÕ^6(ê~!”‚?1­YnïÄ]¶*®åõ«ù½1<ãİP­aÀ,TÓ.dÀ #\”r‹ÆE”JÑò	‘á<Ò<“°<G.ís‡yq×GÉ>òİ±}Jê>ºC‡ş)yæ×GZÅtÉ÷Sé¯ı*¬tóxØŸ6­cìOÃ·jªŠ®z[šĞ`R˜èı¢ÂJÜÂ _/•xëjqQé*` àù`äxç4¾[ğûÍìXœqµ½‡ËdÛşu—jƒõ9®‡Á~*»m“U\ºŞã¦óßºƒêhK±\kõTRè—pëŠ»ì÷(ˆ` ´¤<|«VT—E@ÿ tÃÎAî»cÜ=}ÜEé ~¢{¿ÓpkeÙw›µ™÷AÇ(?ô’Oè˜!­–ıCík•=¤úÙ½Š~‰Æ§½4Oû=çPh£Ïïòã1ëÀ9Ë¶Ñ†ÊkôÚÌé(ddî—mPolşO¢öİèı•êîéÛÕDt|ì*
+ˆŞ[%+µT[”xùÖo5.ÖDÜ~Â s~ìÏØv{¸×ìceOœ­`}aÜ7èÔc'ßŞÒb”™sÌÃõaIf'ê1¡_ÒÀTŞÕ_„ı‘(«w›‹jV*LD@îaéŞZfŸş¤¤Ó„Šd·•7„Ğã›+ørÌNÂ^C}ù¤ Êÿ Væª~V äŸ‹¼²¼\Wqu7”—°ÇõìC#°ú	ŒıU¶íĞn´uÜí$ª4d§­­|N{©Éb±&°x¼ÀWA(ÈCy'ÏøíÇÔyç7Ïíoâ[&°µß¯÷Ó}äšüWP?¨«\ÃÍûÙÜvß'x`Å7ÿ onQi×£hKÉãıã5M”¥(       p ğ ÓŒØÕ©‰×©¯¬R˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1Jb”Å)ŠS¦)LR˜¥1JÿÙÔYimage/png_file:///logo.pngOúbplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///logo.pngÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A½ŞKw¼¡Yimage/pngt#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ Ï Ô ß è î ñ ú,/=ORh             8              jOt‰PNG
+
+   IHDR   P   P   ¹ÏŸ  ßPLTE   {nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nh{nhmşä   ôtRNS 	
+ !"#$%'()*,-./0123456789:;<=?@ABCDEFGHIJKLMNPQSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ’“•–—˜™š›œŸ ¡¢£¤¥¦§¨ª«¬­®°±²³´µ¶·¸¹º»¼½¾¿ÀÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüış-Ù‘û  PIDATXÃ­™ëÕÆŸM–@DLªD`JDÃEÅ¦¡iµV[L£[…ÖmƒTš*¥Xµ@­(‚$€ X°U¦B4Z0T«Ar!.]6„\÷ûôÅÌîÌ$!Óü^Ísf>ß=sÎï¶g¤-%+oó‡ nÎËJQß-!ûõjºXõÆì„¾Ğb§ïhj·=ùp9-¿?wî©–=»Ç4ï˜ûq—-®}]'İyšÿ¤ÉïWZ)gn—kBî¾¨Y|Ù7À]ºÔe‡Kr=¯ÄK~¿4h-º$%ÿæsğ/½´—8×ì:(š#I±¯Ñ6_2€Òü66ÄJ’ëöw¡n¶«7¼Ñ…pè6ã:nÉê‡Ş3î}¿
+GGçÍÒà59îm|dj¼/BÔÏ¾&87
+nĞk°íÊğ»oÅ7^N ®ó±5Æ¼¾"6ê‰7¬„÷GÔóÂ<¨ñgy!òÈ}ç)¹òâ¼±•TL°^Ö[Ô(O+Ö¦}EåØ‹ñÒjù$)¢&4ó€ºêç4ßIS›v‘ùÕq`DbØ†}Á–DË›ØDÙU1üêºã°Júl•ÃºÙßª,;K{•İB!‡lç¬M5PÒu¯7p<É-%<ï¸m_CIæ[”\QÅ†.şLÓ$›œÉÉËz©g–MNj¢“‡:FÜGmÑP^¾rÛä½Qè*ä-9&Xáîè>æ˜¢Ş¤Ğ)fãK²ß>Àƒê¨)¶Ë$³-5¸9ö»“hˆèãF»¾ºÁ±„Ocœ{ø¢¢µÆÒ’b±$RŒüÜêXÑj¾8™jG~Š?\¼óãÑ›¨Rt Ê™ìĞûYlÖ·f8î,b]o€/³È¡§Sk^s¬ vswo€3ÙíĞ1G™.IÚAC©ÃZ(+íl]†¾¤Õ9ĞÀIJh¦ß¬9AR6Å“úÉŠÉ–´‘ÇÔOö%Õ0©¿€©‘R8cúç5¿}õÍõK¦º5ÕëõzH’Ò¯•$İâõNÔ•^¯×ë‘4Ì¶ûzmvë)Êb¯QÔ×´Ÿ^µpŸEÊŞ1£a«$é¯”%*87BR<@õÑS°oí5'€Såm„†k/YÊc¥$i§FJ×|“FOJ’Š(’$s«4X/I£€’Ò-Èd°î®UbÁÒJòT`dÖ)˜àµ1r5Ã$i|iÄânI9ÀFv‡	’”|»¤7à˜¤ø;¤9¨$ı—$t^’û$éŸ¡$m„`œñ2œ°òBìiXî(V%cŒÀäH¸	Rì”ô À )ƒ­’bN£Šm€×­­Í î4¯ÇP© ‰’ô;à½p—R %R|];0Z*ê¸^Òdà’”	ÜcŸátœ@P Iê|9áK­ô«€Me£$-FJÒr%IºÙxø0¶$¢Å¸ü^  ?N’r¡Í54px8¥ÚÇJR		Z‹Š>*?(Iº
+x(l¶€w`»KÒİÀ°5ÜæÁ¯~ÌZI‚g%Ã{ŞÊ}tõ×Ë$I÷ƒ± ‘²³
+`ºáCÌlİ+„g>mM1Šü L˜,)í:IÒvÓµ"¯lnŠ$é)ào¦çÖ†nJ¡ŠÕ¦ããw›„“–Ó8‰¨D‚a·1rn%¼*)àIÿ .$‡}e»$ÀkÖ”<Àm5†
+3UºÚl-ÿQOAë(IÀœ`&İ‰˜)[ÛÌù6|±z^#¸*h#I¥æ{¬€óÉ’¤?…æ9è°Ieğ®½å*0’Ã&qI1ËáIÒ;ø‡JÒCá×Q¨–$×±°÷<gÉ•äé+»‚Êm[*95'\!—J’fÑ8Ôl«¡L’æÿ¶¶d‡Ãµ—,3ÁÆÜüğÊUKïGó·=FGšè1ÿdz<$y<O¦µ«Ç3Îj9ÎÒ¯%`5’ò­&çÿµ%äKÊáà¨~²ƒäHJhé¿Bß’ I»8¾ÓaìßÙÙÚÚºí£Ñ9PÅ.IÒ;êÜÛ›f)ÇHàVÛ]evqî:²wríÁzqàzrzuæÄçãN@­+:Ğuœ‰#=M¢ßlì¬Ş43:p
+å=$ÆóøÂ±ŠËy%:ğåp˜›+ø™-¨‡Ô;ÿ—\OàÒhÀÁ~®·ë_R?Äv3­BFæ²ß.Gøÿí\E¼çr¬Gm\ÏÀ¸jî²ë=¼ïØÈÔFØûï#Ùğ×|ã©ÎæÑjßÙŸpæò€—ŸfšMf´2¯ó¦mâä›,â¥€/ò/›J®gS¿¿ä0ü–] ä·8d¨ÓÃ‡ã»&³äê¾g™êäîÒcªƒÖÂüÔl‡»yåJ­Òù­øR»O¸ã}ü÷êˆ4K``.×FÄÈÏ­²®s¬æDFDı”»ºNë°Uú)'¨N½xQH>L«•“ )£+0ı<Ë"±°ÃÉ=•™K6ÁH¾D ½30=ÀºpLŒz6ÅG©\ó9·ÀÌ=±›	d86›'Äî…4Î‹^S‹à‹,“ø:M3íÀ™M¼ağ\³¾‚÷S{u¨;·>Î I®ç0ò°\bµK’âf—BıÜ^êJ’ç‡Ú§ÇIÒ-lO0€	Ûi_ Iã9ş¼Ş;KRâãu@éÓAJ¯£|Šü~}·œÚL¹§<u¨{,ñ¶î»Z€¦Ö­8Mhu0¸ºƒŠÅ/€–]3Ü}ú¸“_Ó5nkòsúôqÁúüQP\VDÿüñ?/öq¤ásåî    IEND®B`‚Ô_file:///images.faces.jpgObplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_file:///images.faces.jpgÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A½ŞKwÃrZimage/jpeg–#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ × Ü ç ğ ö ù"'58FX[q             8              sO–ÿØÿà JFIF      ÿÛ C 		
+ $.' ",#(7),01444'9=82<.342ÿÛ C			2!!22222222222222222222222222222222222222222222222222ÿÀ  - È" ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑğ$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÄ µ  w !1AQaq"2B‘¡±Á	#3RğbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ   ? ÷ú+Î¾3ø«Sğ¯‚Öm%gK›‰Ö?´Æ>XF	É>¤€ ïÏQ|“Áßş x—Oÿ „¯Nñ$–3İ)HæîTšeİóe—'nåã=qœt ¨(¯ø?ñ?VŸÄ-á?Ëuwy<Ì°Í1„ª±dn2y\Oá^Å¨x»ÃzMÏÙµLµ¸ÎS]"°ú‚r? Ù¬İcÄG‡àIµ}JÚÊ7mŠÓÈ'à~Gò©4½gMÖíçK¾·¼$hšH$¡×¨Èü?C^ñºÎßZø­áYEÒÃ»G*’NS#òoÊ€=‚ËÇÔnVŞÓÄš\³1Â ¹PXú O'é]x?Œÿ gı"ÓÃ·wş»½[ËXš_"áÕÖP£$ Cc§QüëSàŒîõÍóBÔfi§Ó‚µ¼Ùcdm>»Hü˜Ôì”WÎß<Iñáÿ Œ¾Õ¯4Ú4÷&K8æPÈê6±°Àİ·¨$µëú7t}GÀ‘øªk¨áµHCİcŸ*@äúäàzäzĞUExw„>&øÏâŒ$ƒJ‚ÏOĞíÏ™s4±ohâÜq–'ÈãÓ‚zQjÿ <QâË¢ü:ÒÖtˆœİ<a™À8İó¨…ºñÓ¥ {µàúwÄÏøCÅ6oÄ;8£°¼m¦äD™\ñ¹Z3°€HÜ9 ~½w¾*Éáıv/øwH}oZeİ,1î" …’AÎ8ÀÇ­ zUãÚÆË•ñ$:Œ¼=.‹s;Ià ±ÂîV
+¼	‡5Ú|Hñ—ü ŞŸV%–é`¶Gû¦FÉö 1÷Æ(­¢¾zĞ®~0xŞÁ¼Q¦ë6Ğ[i ²?»Y¶6(Û‚	~fíÉÖğoÇ+É5æĞ¼i§ÇeteX#–Ù6É¸!Y‰Ç9;ÀÁâ€=¾Š+çkcÄ_üo{¢é:´šW‡,Õ›|`ê˜7l	 £¢h¯ø5ªëºOŒuÏkFî=>7š‹lÚêÒyÚÂ@Ø=?^Ù@Q@Q@r^<ñ¾™à_Ës<è/dFvøÜÒIØíÈùAêr?<
+çş-üP±M?MÙ&·v…“pÊÛ§Mäw9Î±'¦x-üwª{âŠõÎw¥“Aq/9'÷­³d“µIòzŠ æ­¥Ö43ÿ 	¸0jšŠ¹´#"r$%ZeE®O¡¯ ô/€Ş¶Ñ’=jŞ]GS‘s=É¸‘0ç®Ğ¤ë’{×›ø›ÆZJücÑ¼ch%¼ğüI,vï®)PW%±]Œ¾<OÅı§‡£´»°İVÛPŒÈ¯nì9.
+G8^Ø'¥ ]ı-u+k,¿K[µÜ0eP|Âû¦>~˜Î)xŠGÚ—FWve#Tä(òÜàz’^¡ğß@³ğç€´»;+„¹I"p€3?Í¸gœ`€=€¯"ñ—‚~%İüT½ñN‡¦`Ç(ûââTY¸É ¤ñ@ñ®İCcáıFîá‚Ã¬’9=€RM|õû6Å)ñv¯0Ï”¶[7Ğ5Y¿ğ‡ÆÏEı®İlœşeÄ	ÁÏÌ!ÉoÈ×¤èz	<4vuî³|ÀË)µ€»Ï7Wjäªûà€'’ §ñ·Uğ¼–Ã\kæ¥°‚?¼%ÁEbz 7Ï]§Å|Ç¢çP¿±Ñ®µ)-4Û‹¥±bR=ÅC9^şCÒ½Ãá×~%xûWñ7:kI"×–Ò'ıÔSŒ*¦â3ÆB­]·Äÿ ƒ¶+àëI|1cSéHí6>üñÉ$ÿ åF?Ş4Ñêš&ŸàßÚ¼>
+ÑÉ`ò›ˆÿ å±‘@/““§N ÷¬_Ù¾Öİ<ª]ª/Ú%ÔnİÊ¬hT~nßµ”ñÃ­GÂÚd[46ÄîkyC`zñó¦Úãt=OÄüEyc«éÒŞhWoòÍÂÈ@;] luSÏä2Ò^|uğö¯¨Ãa{áµº\lˆÜ´n¨äíÜ2§QZ‘/oüa­\¨mJ}M’Go¼«’Øƒ$ÿ ß#Ò¹;­[Pøçã]*+N];MÒ®ârXZ=ÙÀÆîêsé±}mâï…>Öµİ3B}cBÕå24{†Æ$°Ü b¤e†q´îíĞ TÖ¾3ø^Ú}gÁ·W’[n›…¶çàœƒ­zÅ	İü@ğ6ºiE»Y¢»…em ğT‚{|®Oá^Wâuñ÷ÆK»dğ£é:}³³$—AØ³°€ÇE\×½êV™ğÃÙé7ÿ dÔ£¶ÛÛ—Ì	…Ü—8÷şTâŸ¾"Ş|=ÓağÏ‹ô;û+mşU×ß).ìr1óÌ #5æ¼Iiâ6­¦[Ü[Ú<@ÂÓ(Ws¹‹7}âÃ¯ğ×¢ØüDñ„/%Ó~*h·Z¼ß¾µy-âr®£ø:#7$®}ëæï_a¹±Óg·Ñ£ÆÎëº’I$q¹‰| zŸbhéä{¤¨vÚÓÀ0/ÿ ^¾fğ·ªü#ñF³¤j^¼¼»»UàSºGBv•8å1äg â¾ñ+ê‘xgR“D
+u4·g¶R¡·8®z~5àz?Ç_¶—{£]iÒßx’â*ÉÒ5ŒDXÚP–	¹ç o€ğ>©ã¿x‚ùZ-D>É!B6)šWw¼4@zg¯o{®á7ÀŞòoNñüë¢§!8Â¦{íüIí]í QE QE rçÃø—V—TÕô†¹¼”(yÜËÀ  ¸ØVwü)/‡Ÿô/äíÇÿ ¯@¢€2`ğ¾…o &…“iı–‹´Z´aûœõ=ËIäœÔ±è<Z8ÑÓJ²f1öO!|£Îy\`óÏ×šÑ¢€
+(¢€
+(¢€
+(¢€34ßhz4Ï6—£iÖ2ºígµµH™‡\ dVŒ‘Ç2•ĞõVE 5#H$h¨ƒ¢¨Àê( Š( æ·†áBÏr¨9Ô0=c@ˆ¡T  ¥¢€
+Œ[Â'3ˆc‘ƒ Q¸­IE QE QE QE ÿÙÔ !"Yimage/gif_!file:///app_btn_tooltip_field.gifObplist00Ô45X$versionX$objectsY$archiverT$top † «%&,-./0U$nullÛ	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8€€
+€ €	€€ €€Ó 
+!#$WNS.base[NS.relative€ €€_!file:///app_btn_tooltip_field.gifÒ'()*Z$classnameX$classesUNSURL¢)+XNSObject#A½ŞKwÈ°Yimage/gif©#ïÿÿÿÿÿÿÒ'(12]NSURLResponse¢3+]NSURLResponse_NSKeyedArchiverÑ67_WebResourceResponse€    # - 2 7 C I ` c j m p s v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ª ¶ ¸ º ¼ à å ğ ù ÿ!*/=@N`cy             8              {O©GIF89a  ÷    ØÛİt…›9Rq4Yª³¾ñòóŒ™ª^rŒ0VÂÈÎ(Ce…“¥Kb~   ¢¬¹ÖØÜm~”æèì±¹Ã;^|Œ¡”¢²RgH^{ex/IjÌĞÕùùùŠ—¨´»Ä6[auëíï#?bSi„İßá›¦´¸ÀË¥°¾°¹Åo€•BRsÅÊĞŒ”­cs”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      !ù   ,       † H° Áƒ*„BC
+N,° !<ŒÈ@ (8ˆYá‚À'Dş[ùO$‚0¨lÉa%:9Ò¦*ğ¬I“ xÚ@†<ÁAŠ3Eš °Á	ğ´ğáAÈ A…ƒ&(±‚`@ ;            1   <   R   p   ‡   –   ¨   ²   ¸   ¹   Î  ³¬  ³±  ³º  ³Ğ  ³Û  ³ı  ¶  ì  õ  ÿ   ˆ ‘ ¬ ³ M V ` „ “             #             #@

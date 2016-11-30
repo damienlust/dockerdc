@@ -1,0 +1,22 @@
+apiVersion: batch/v1
+kind: Deployment
+metadata:
+  name: zookeper-deployment
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: zookeper
+    spec:
+      containers:
+      - name: zookeper
+        image: elevy/zookeper:latest
+        ports:
+        - containerPort: 2181
+        - containerPort: 2888
+        - containerPort: 3888
+
+
+        
+
